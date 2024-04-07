@@ -32,3 +32,5 @@ KPIs: Include informative KPIs for quick insights into key metrics.
 # Conclusion:
 Through my analysis using Power Query and DAX in Power BI, I found some important trends in the sample employee data. The dashboard I made helped me see why employees were leaving, especially among the sales team. 
 It turns out, Sales Reps are leaving more because of lower salaries.
+
+![Image](https://github.com/AbinayaAnandaKumar97/Payroll-and-Employee-Attrition-Analysis/assets/156929713/8c248275-221f-4efd-bd92-2f22eea61aa3)
